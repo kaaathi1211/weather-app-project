@@ -1,0 +1,16 @@
+.weather-icon {
+  position: relative;
+  top: 20px;
+}
+.logo-label {
+  position: relative;
+  top: -8px;
+  right: -80px;
+}
+.input-group {
+  width: 60%;
+}
+.btn-primary {
+  position: relative;
+  right: -8px;
+}
